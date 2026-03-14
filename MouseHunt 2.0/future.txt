@@ -1,0 +1,7 @@
+
+# stats e show days survived
+# add achievements
+# decrease to 2 difficulty system
+# add mood of witch doc for hard mode
+# decrease cheese shop timing for hard mode + higher price for premium
+# trader give out fake gold in hard mode
