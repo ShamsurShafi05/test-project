@@ -2,4 +2,4 @@
 Hello, Git!
 ###
 
-Updating from *test-b1*
+Updates from *test-b1*
